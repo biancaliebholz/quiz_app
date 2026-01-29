@@ -10,3 +10,16 @@ background: linear-gradient(90deg,rgba(42, 123, 155, 0.58) 0%, rgba(62, 157, 145
     align-items: center;
     height: 100vh;
 }
+
+.question-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 16px;
+    border-top: 2px solid rgb(13 202 240);
+}
+
+.quiz-card{
+    width: 30rem;
+   
+}
